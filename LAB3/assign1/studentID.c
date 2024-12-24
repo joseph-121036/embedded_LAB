@@ -130,7 +130,7 @@ int main(void)
         munmap(lw_virtual, LW_BRIDGE_BASE);
         close(fd);
 
-        return 0;  //finish
+        return 0;  //finish finish finish
 
 }
 
