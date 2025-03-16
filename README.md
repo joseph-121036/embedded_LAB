@@ -4,15 +4,15 @@
 ![image](https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png)
 
 
-### LAB3 memory mapped io (banner scroll)
+<mark style="background: #ADCCFFA6;">LAB3 memory mapped io (Banner scroll)</mark>
 https://github.com/user-attachments/assets/c47ac215-d4a7-443a-8def-a91dcd0b74da
 
 
-### LAB3 polled io (calculator)
+### <mark style="background: #ADCCFFA6;">LAB3 polled io (Calculator)</mark>
 https://github.com/user-attachments/assets/4d91be55-4417-4fe7-8cf1-8f511b697f11
 
 
-### LAB4 device driver (상점 전광판 프로그램)
+### <mark style="background: #ADCCFFA6;">LAB4 device driver (Neon Sign)</mark>
 https://github.com/user-attachments/assets/27326f48-2b8a-4835-a26c-695b97a378fa
 
 
