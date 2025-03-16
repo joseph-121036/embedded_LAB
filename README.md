@@ -7,3 +7,6 @@
 https://somyeong.tistory.com/entry/mmio1
 
 <iframe src="https://1drv.ms/v/c/ce3c26eef978e16d/IQRtmKsCBYfITYltKmoRhYlkAXkbSO2NxkrFjzG1RUvVDBQ" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+{% include 파일명.html id="84bs_bjOfzE" %}
