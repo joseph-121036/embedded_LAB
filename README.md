@@ -4,7 +4,7 @@
 ![image](https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png)
 
 
-<mark style="background: #ADCCFFA6;">LAB3 memory mapped io (Banner scroll)</mark>
+### <mark style="background: #ADCCFFA6;">LAB3 memory mapped io (Banner scroll)</mark>
 https://github.com/user-attachments/assets/c47ac215-d4a7-443a-8def-a91dcd0b74da
 
 
