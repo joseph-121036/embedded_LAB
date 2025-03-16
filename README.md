@@ -7,7 +7,10 @@
 ### LAB3 memory mapped io (banner scroll)
 https://github.com/user-attachments/assets/c47ac215-d4a7-443a-8def-a91dcd0b74da
 
+
 ### LAB3 polled io (calculator)
+https://github.com/user-attachments/assets/e3eb3f4d-63fa-4bee-89c0-a836b4040f7f
+
 
 
 ### LAB4 device driver (상점 전광판 프로그램)
