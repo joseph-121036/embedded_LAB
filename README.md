@@ -9,12 +9,13 @@ https://github.com/user-attachments/assets/c47ac215-d4a7-443a-8def-a91dcd0b74da
 
 
 ### LAB3 polled io (calculator)
-https://github.com/user-attachments/assets/e3eb3f4d-63fa-4bee-89c0-a836b4040f7f
-
+https://github.com/user-attachments/assets/4d91be55-4417-4fe7-8cf1-8f511b697f11
 
 
 ### LAB4 device driver (상점 전광판 프로그램)
-https://github.com/user-attachments/assets/299e1fa4-8111-4b9d-beb7-fbd7350abc6d
+https://github.com/user-attachments/assets/27326f48-2b8a-4835-a26c-695b97a378fa
+
+
 
 더 자세한 내용은 블로그를 참고해 주세요.
 https://somyeong.tistory.com/entry/mmio1
