@@ -16,3 +16,6 @@ https://github.com/user-attachments/assets/27326f48-2b8a-4835-a26c-695b97a378fa
 
 더 자세한 내용은 블로그를 참고해 주세요.
 https://somyeong.tistory.com/entry/mmio1
+
+
+### <mark style="background: #FF5582A6;">LAB3 memory mapped io (Banner scroll)</mark>
