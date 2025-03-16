@@ -3,11 +3,11 @@
 
 ![image](https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png)
 
-더 자세한 내용은 블로그를 참고해 주세요.
-https://somyeong.tistory.com/entry/mmio1
 
 
 
-### 상점 전광판 프로그램
+### LAB4 device driver (상점 전광판 프로그램)
 https://github.com/user-attachments/assets/299e1fa4-8111-4b9d-beb7-fbd7350abc6d
 
+더 자세한 내용은 블로그를 참고해 주세요.
+https://somyeong.tistory.com/entry/mmio1
