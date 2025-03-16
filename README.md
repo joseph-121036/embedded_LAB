@@ -4,6 +4,7 @@
 <img src="https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png/>
 
 
+![image](https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png)
 
 
 
