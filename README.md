@@ -4,6 +4,10 @@
 ![image](https://github.com/joseph-121036/embedded_LAB/blob/lab/image/de1_soc.png)
 
 
+### LAB3 memory mapped io (banner scroll)
+https://github.com/user-attachments/assets/c47ac215-d4a7-443a-8def-a91dcd0b74da
+
+### LAB3 polled io (calculator)
 
 
 ### LAB4 device driver (상점 전광판 프로그램)
